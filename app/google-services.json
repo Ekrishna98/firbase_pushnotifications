@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279132170796",
+    "project_id": "fir-pushnotifications-ad1b0",
+    "storage_bucket": "fir-pushnotifications-ad1b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279132170796:android:71ced7632f28f26934bf89",
+        "android_client_info": {
+          "package_name": "com.greenleaves.firebase_pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDt4OwVFy203ohYC2pv6aBr7Idag2SwI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
